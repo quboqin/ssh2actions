@@ -1,16 +1,3 @@
-#!/usr/bin/env bash
-#
-# Copyright (c) 2020 P3TERX <https://p3terx.com>
-#
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
-#
-# https://github.com/P3TERX/ssh2actions
-# File name：ngrok2actions.sh
-# Description: Connect to Github Actions VM via SSH by using ngrok
-# Version: 2.0
-#
-
 Green_font_prefix="\033[32m"
 Red_font_prefix="\033[31m"
 Green_background_prefix="\033[42;37m"

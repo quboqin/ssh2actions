@@ -1,16 +1,3 @@
-#!/usr/bin/env bash
-#
-# Copyright (c) 2020 P3TERX <https://p3terx.com>
-#
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
-#
-# https://github.com/P3TERX/ssh2actions
-# File name：tmate2actions.sh
-# Description: Connect to Github Actions VM via SSH by using tmate
-# Version: 2.0
-#
-
 set -e
 Green_font_prefix="\033[32m"
 Red_font_prefix="\033[31m"
